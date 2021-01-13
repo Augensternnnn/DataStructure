@@ -1,6 +1,5 @@
 package HashTable.map;
 
-
 import Map.Map;
 import util.printer.BinaryTreeInfo;
 import util.printer.BinaryTrees;
@@ -184,7 +183,8 @@ public class HashMap<K,V> implements Map<K,V> {
                     && k1 instanceof Comparable
                     && (cmp = ((Comparable) k1).compareTo(k2)) != 0){
                 //cmp = ((Comparable) k1).compareTo(k2)) != 0：防止equals比较不同，compareTo比较相同，导致被覆盖的情况(equals不同，不是同一对象，不能覆盖)
-            } else
+            }//哈希值相等，不具备可比较性，也不equals
+            else
                 cmp = System.identityHashCode(k1) - System.identityHashCode(k2);
 
             if (cmp > 0)

@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91845c91-d9af-44e8-9110-cce4fd48b5e7" name="Default Changelist" comment="" />
+    <list default="true" id="91845c91-d9af-44e8-9110-cce4fd48b5e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/ListGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/util/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashTable/map/HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashTable/map/HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue/PriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/PriorityQueue.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -20,6 +39,9 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1ebzwF0cBuAxnGvNb5CaVGSyJFy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,13 +50,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Graph/util" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -56,6 +79,25 @@
       <option name="presentableId" value="Default" />
       <updated>1594605316898</updated>
       <workItem from="1594605319271" duration="2968000" />
+      <workItem from="1594963304675" duration="208000" />
+      <workItem from="1595335119690" duration="11000" />
+      <workItem from="1595397523085" duration="39000" />
+      <workItem from="1597324534837" duration="8611000" />
+      <workItem from="1599315160339" duration="1486000" />
+      <workItem from="1599529432550" duration="1199000" />
+      <workItem from="1599562370132" duration="782000" />
+      <workItem from="1599631669708" duration="4442000" />
+      <workItem from="1599726790834" duration="310000" />
+      <workItem from="1600221785934" duration="711000" />
+      <workItem from="1600582945712" duration="596000" />
+      <workItem from="1601873273028" duration="899000" />
+      <workItem from="1602645635516" duration="1230000" />
+      <workItem from="1602657401055" duration="1560000" />
+      <workItem from="1602753291787" duration="2683000" />
+      <workItem from="1602823492539" duration="5699000" />
+      <workItem from="1603355598520" duration="101000" />
+      <workItem from="1603526616123" duration="2720000" />
+      <workItem from="1603622873146" duration="544000" />
     </task>
     <servers />
   </component>
@@ -63,13 +105,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="85" key="FileChooserDialogImpl" timestamp="1594608296152">
+    <state x="759" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1603527955925">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="421" y="85" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1594608296152" />
-    <state x="28" y="0" key="new project wizard" timestamp="1594608296853">
+    <state x="759" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1603527955925" />
+    <state x="421" y="85" key="FileChooserDialogImpl" timestamp="1603355704981">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="28" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1594608296853" />
+    <state x="421" y="85" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1603355704981" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1602753497740">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1602753497740" />
   </component>
 </project>

@@ -47,6 +47,4 @@ public class PriorityQueue<E> {
     public E front(){
         return heap.get();
     }
-
-
 }
